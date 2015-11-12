@@ -6,3 +6,4 @@ Git tracks changes of files !.
 Git 1
 Git 2
 Creating a new branch is quick AND simple
+add 2
